@@ -14,5 +14,5 @@ target:
 	@mkdir target
 
 clean: 
-	@rm -rf clean
+	@rm -rf target
 
